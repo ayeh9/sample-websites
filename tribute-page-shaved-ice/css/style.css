@@ -1,0 +1,62 @@
+#main {
+  margin: 30px;
+  padding: 10px;
+  background: #eeeeee;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+}
+
+#title, #img-div, #tribute {
+  background: white;
+  margin: 10px;
+  border-radius: 15px;
+}
+
+
+#title { 
+  text-align: center;
+  font-size: 70px;
+  border-radius: 0px;
+  padding: 10px;
+}
+
+#img-div {
+  padding: 20px;
+  width: 100%;
+}
+
+img {
+  max-width: 100%;
+  margin: auto;
+  border-radius: 5px;
+  display: block;
+}
+
+
+#img-caption {
+  font-size: 0.65em;
+  font-style: italic;
+  font-weight: 80;
+  text-align: center;
+}
+
+#tribute {
+  margin-top: 50px;
+  padding: 30px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+
+ul {
+  font-weight: 100;
+}
+
+
+
+
+#more-info {
+  font-size: 0.65em;
+  font-style: italic;
+  font-weight: 80;
+  text-align: center;
+}
